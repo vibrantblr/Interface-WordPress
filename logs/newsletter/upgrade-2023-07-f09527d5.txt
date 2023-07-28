@@ -1,0 +1,56 @@
+14-07-2023 11:07:57 - INFO  - 7.8.8 - 50.4 MB/512 MB - admin_Interface > Start upgrade from 0.0.0
+14-07-2023 11:07:57 - INFO  - 7.8.8 - 53.5 MB/512 MB - admin_Interface > Array
+(
+    [`wpi_newsletter_emails`] => Created table `wpi_newsletter_emails`
+)
+
+14-07-2023 11:07:57 - INFO  - 7.8.8 - 53.5 MB/512 MB - admin_Interface > Array
+(
+    [`wpi_newsletter_sent`] => Created table `wpi_newsletter_sent`
+)
+
+14-07-2023 11:07:57 - INFO  - 7.8.8 - 53.5 MB/512 MB - admin_Interface > Array
+(
+    [`wpi_newsletter`] => Created table `wpi_newsletter`
+)
+
+14-07-2023 11:07:57 - INFO  - 7.8.8 - 53.5 MB/512 MB - admin_Interface > Array
+(
+    [`wpi_newsletter_user_logs`] => Created table `wpi_newsletter_user_logs`
+)
+
+14-07-2023 11:07:57 - INFO  - 7.8.8 - 53.5 MB/512 MB - admin_Interface > Array
+(
+    [`wpi_newsletter_stats`] => Created table `wpi_newsletter_stats`
+)
+
+14-07-2023 11:07:57 - INFO  - 7.8.8 - 53.5 MB/512 MB - admin_Interface > Backing up options of 0.0.0
+14-07-2023 11:07:57 - INFO  - 7.8.8 - 53.5 MB/512 MB - admin_Interface > End
+28-07-2023 06:45:59 - INFO  - 7.8.9 - 70.7 MB/512 MB - admin_Interface > Start upgrade from 7.8.8
+28-07-2023 06:45:59 - INFO  - 7.8.9 - 73.8 MB/512 MB - admin_Interface > Array
+(
+    [`wpi_newsletter_emails`] => Created table `wpi_newsletter_emails`
+)
+
+28-07-2023 06:45:59 - INFO  - 7.8.9 - 73.8 MB/512 MB - admin_Interface > Array
+(
+    [`wpi_newsletter_sent`] => Created table `wpi_newsletter_sent`
+)
+
+28-07-2023 06:45:59 - INFO  - 7.8.9 - 73.8 MB/512 MB - admin_Interface > Array
+(
+    [`wpi_newsletter`] => Created table `wpi_newsletter`
+)
+
+28-07-2023 06:45:59 - INFO  - 7.8.9 - 73.8 MB/512 MB - admin_Interface > Array
+(
+    [`wpi_newsletter_user_logs`] => Created table `wpi_newsletter_user_logs`
+)
+
+28-07-2023 06:45:59 - INFO  - 7.8.9 - 73.8 MB/512 MB - admin_Interface > Array
+(
+    [`wpi_newsletter_stats`] => Created table `wpi_newsletter_stats`
+)
+
+28-07-2023 06:45:59 - INFO  - 7.8.9 - 73.8 MB/512 MB - admin_Interface > Backing up options of 7.8.8
+28-07-2023 06:45:59 - INFO  - 7.8.9 - 73.8 MB/512 MB - admin_Interface > End

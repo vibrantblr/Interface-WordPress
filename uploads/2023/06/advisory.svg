@@ -1,0 +1,167 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1038" height="550" viewBox="0 0 1038 550">
+    <defs>
+        <filter id="obcfk4p0la" width="108.9%" height="112.5%" x="-4.4%" y="-5.8%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="4"/>
+            <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+            <feMorphology in="SourceAlpha" radius="1" result="shadowSpreadOuter2"/>
+            <feOffset dy="3" in="shadowSpreadOuter2" result="shadowOffsetOuter2"/>
+            <feGaussianBlur in="shadowOffsetOuter2" result="shadowBlurOuter2" stdDeviation="1.5"/>
+            <feColorMatrix in="shadowBlurOuter2" result="shadowMatrixOuter2" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"/>
+            <feOffset dy="3" in="SourceAlpha" result="shadowOffsetOuter3"/>
+            <feGaussianBlur in="shadowOffsetOuter3" result="shadowBlurOuter3" stdDeviation="2"/>
+            <feColorMatrix in="shadowBlurOuter3" result="shadowMatrixOuter3" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.14 0"/>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"/>
+                <feMergeNode in="shadowMatrixOuter2"/>
+                <feMergeNode in="shadowMatrixOuter3"/>
+            </feMerge>
+        </filter>
+        <filter id="j6jj8bkscc" width="108.9%" height="112.5%" x="-4.4%" y="-5.8%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="4"/>
+            <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+            <feMorphology in="SourceAlpha" radius="1" result="shadowSpreadOuter2"/>
+            <feOffset dy="3" in="shadowSpreadOuter2" result="shadowOffsetOuter2"/>
+            <feGaussianBlur in="shadowOffsetOuter2" result="shadowBlurOuter2" stdDeviation="1.5"/>
+            <feColorMatrix in="shadowBlurOuter2" result="shadowMatrixOuter2" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"/>
+            <feOffset dy="3" in="SourceAlpha" result="shadowOffsetOuter3"/>
+            <feGaussianBlur in="shadowOffsetOuter3" result="shadowBlurOuter3" stdDeviation="2"/>
+            <feColorMatrix in="shadowBlurOuter3" result="shadowMatrixOuter3" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.14 0"/>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"/>
+                <feMergeNode in="shadowMatrixOuter2"/>
+                <feMergeNode in="shadowMatrixOuter3"/>
+            </feMerge>
+        </filter>
+        <filter id="xiizdsz3re" width="103.5%" height="105%" x="-1.8%" y="-2%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1.5"/>
+            <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+            <feMorphology in="SourceAlpha" radius=".5" result="shadowSpreadOuter2"/>
+            <feOffset dy="2" in="shadowSpreadOuter2" result="shadowOffsetOuter2"/>
+            <feGaussianBlur in="shadowOffsetOuter2" result="shadowBlurOuter2" stdDeviation=".5"/>
+            <feColorMatrix in="shadowBlurOuter2" result="shadowMatrixOuter2" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"/>
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter3"/>
+            <feGaussianBlur in="shadowOffsetOuter3" result="shadowBlurOuter3" stdDeviation=".5"/>
+            <feColorMatrix in="shadowBlurOuter3" result="shadowMatrixOuter3" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.14 0"/>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"/>
+                <feMergeNode in="shadowMatrixOuter2"/>
+                <feMergeNode in="shadowMatrixOuter3"/>
+            </feMerge>
+        </filter>
+        <filter id="gomrd0eq2g" width="103.5%" height="105%" x="-1.8%" y="-2%" filterUnits="objectBoundingBox">
+            <feOffset dy="-4" in="SourceAlpha" result="shadowOffsetInner1"/>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+            <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0.317647059 0 0 0 0 0.552941176 0 0 0 0 0.88627451 0 0 0 1 0"/>
+        </filter>
+        <filter id="x8mk0lvbii" width="100.7%" height="100.1%" x="-.3%" y="0%" filterUnits="objectBoundingBox">
+            <feOffset dx="-.5" in="SourceAlpha" result="shadowOffsetInner1"/>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+            <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0.8 0 0 0 0 0.8 0 0 0 0 0.8 0 0 0 1 0"/>
+        </filter>
+        <rect id="4aqxdvmmrb" width="282" height="200" x="724" y="84" rx="4"/>
+        <rect id="oy4l1rrq6d" width="282" height="200" x="410" y="84" rx="4"/>
+        <rect id="lgrm4qgsqf" width="282" height="200" x="96" y="84" rx="4"/>
+        <path id="rmgya28k1h" d="M2 0h70v550H2c-1.105 0-2-.895-2-2V2C0 .895.895 0 2 0z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g transform="translate(-201 -3497) translate(201 3497)">
+                    <rect width="1038" height="550" fill="#FBF9FF" rx="3"/>
+                    <g>
+                        <use fill="#000" filter="url(#obcfk4p0la)" xlink:href="#4aqxdvmmrb"/>
+                        <use fill="#FFF" xlink:href="#4aqxdvmmrb"/>
+                    </g>
+                    <text fill="#E64949" font-family="FuturaBT-BoldItalic, Futura" font-size="60" font-style="italic" font-weight="bold">
+                        <tspan x="816.122" y="208">3</tspan> <tspan x="852.772" y="208" font-family="Futura-MediumItalic, Futura" font-weight="400">%</tspan>
+                    </text>
+                    <text fill="#1B1D1C" font-family="Manrope-ExtraLight_Regular, Manrope" font-size="18">
+                        <tspan x="784" y="127">Abandonment Rate</tspan>
+                    </text>
+                    <g>
+                        <use fill="#000" filter="url(#j6jj8bkscc)" xlink:href="#oy4l1rrq6d"/>
+                        <use fill="#FFF" xlink:href="#oy4l1rrq6d"/>
+                    </g>
+                    <text fill="#17BD85" font-family="FuturaBT-BoldItalic, Futura" font-size="60" font-style="italic" font-weight="bold" letter-spacing="-4.167">
+                        <tspan x="492.38" y="208">9</tspan> <tspan x="524.864" y="208">5</tspan> <tspan x="561.514" y="208" font-family="Futura-MediumItalic, Futura" font-weight="400">%</tspan>
+                    </text>
+                    <text fill="#1B1D1C" font-family="Manrope-ExtraLight_Regular, Manrope" font-size="18">
+                        <tspan x="496" y="127">Service Level</tspan>
+                    </text>
+                    <g>
+                        <use fill="#000" filter="url(#xiizdsz3re)" xlink:href="#lgrm4qgsqf"/>
+                        <use fill="#FFF" xlink:href="#lgrm4qgsqf"/>
+                        <use fill="#000" filter="url(#gomrd0eq2g)" xlink:href="#lgrm4qgsqf"/>
+                    </g>
+                    <text fill="#518DE2" font-family="FuturaBT-BoldItalic, Futura" font-size="60" font-style="italic" font-weight="bold">
+                        <tspan x="172.175" y="211">3</tspan>
+                    </text>
+                    <text fill="#1B1D1C" font-family="Manrope-ExtraLight_SemiBold, Manrope" font-size="18" font-weight="500">
+                        <tspan x="209" y="213">m</tspan>
+                    </text>
+                    <text fill="#1B1D1C" font-family="Manrope-ExtraLight_SemiBold, Manrope" font-size="18" font-weight="500">
+                        <tspan x="292" y="213">s</tspan>
+                    </text>
+                    <text fill="#518DE2" font-family="FuturaBT-BoldItalic, Futura" font-size="60" font-style="italic" font-weight="bold" letter-spacing="-10">
+                        <tspan x="229.35" y="211">12</tspan>
+                    </text>
+                    <text fill="#1B1D1C" font-family="Manrope-ExtraLight_Regular, Manrope" font-size="18">
+                        <tspan x="142" y="127">Average Handling Time</tspan>
+                    </text>
+                    <g>
+                        <use fill="#FBF9FF" xlink:href="#rmgya28k1h"/>
+                        <use fill="#000" filter="url(#x8mk0lvbii)" xlink:href="#rmgya28k1h"/>
+                    </g>
+                    <rect width="48.141" height="45.416" x="10.9" y="8.175" fill="#213E65" fill-rule="nonzero" rx="5"/>
+                    <path fill="#FFF" d="M32.41 30.876c0 1.582-1.283 2.864-2.867 2.864s-2.868-1.282-2.868-2.864c0-1.581 1.284-2.864 2.868-2.864 1.584 0 2.868 1.283 2.868 2.864M36.276 33.042L43.965 33.042 43.965 28.71 36.276 28.71z"/>
+                    <rect width="32" height="32" x="987" y="20" fill="#EAEAEA" fill-rule="nonzero" rx="16"/>
+                    <rect width="95.223" height="14.355" x="97" y="28" fill="#E9E9E9" fill-rule="nonzero" rx="7.177"/>
+                    <rect width="450.908" height="32" x="340.251" y="19.473" fill="#EAEAEA" stroke="#E9E9E9" rx="2.5"/>
+                    <path fill="#97ACB2" fill-rule="nonzero" d="M367 40.82l-1.867-1.914c1.628-2.149 1.346-5.226-.645-7.026-1.99-1.8-5.004-1.704-6.881.22-1.878 1.925-1.972 5.013-.215 7.054 1.756 2.041 4.758 2.33 6.854.66l1.865 1.918c.118.122.278.19.445.19.167 0 .327-.068.444-.19.119-.12.185-.284.185-.455 0-.171-.066-.335-.185-.456zm-5.83-1.207c-2.077 0-3.762-1.727-3.762-3.857s1.685-3.858 3.763-3.858 3.763 1.727 3.763 3.858c-.003 2.129-1.686 3.855-3.763 3.857z"/>
+                    <path fill="#213E65" fill-rule="nonzero" d="M998.185 37.803c-.442.461-.293.836.335.836h10.268c.627 0 .777-.367.334-.82l-4.72-4.841c-.212-.22-.501-.341-.803-.339-.3.003-.588.13-.797.352l-4.617 4.812z" transform="rotate(90 1003.654 35.64)"/>
+                    <path fill="#213E65" fill-rule="nonzero" d="M957 50c-7.732 0-14-6.268-14-14s6.268-14 14-14 14 6.268 14 14c0 3.713-1.475 7.274-4.1 9.9-2.626 2.625-6.187 4.1-9.9 4.1zm-3.791-17.629l-1.18-1.21c-.084-.087-.198-.135-.318-.135-.119 0-.233.048-.316.134l-4.421 4.503c-.175.181-.175.469 0 .65l4.418 4.524c.083.086.198.135.317.135.12 0 .234-.049.317-.135l1.18-1.21c.176-.182.176-.47 0-.65l-2.906-2.98 2.907-2.979c.174-.181.174-.468 0-.65l.002.003zm14.283 3.292l-4.42-4.502c-.082-.085-.196-.134-.316-.134s-.234.049-.317.134l-1.18 1.212c-.176.18-.176.468 0 .649l2.906 2.98-2.906 2.98c-.176.18-.176.468 0 .65l1.18 1.21c.083.086.198.134.317.134.12 0 .234-.048.317-.134l4.393-4.53c.092-.08.146-.197.15-.32.005-.122-.042-.241-.128-.329h.004zm-7.872-5.152h-1.425c-.196.005-.37.129-.437.314l-3.346 10.035c-.054.143-.034.304.053.43.088.125.231.199.384.198h1.422c.196-.005.37-.13.437-.314l3.37-10.034c.045-.147.018-.306-.073-.43-.09-.124-.234-.197-.388-.198l.003-.001z"/>
+                    <ellipse cx="35.687" cy="131.392" fill="#CCC" fill-rule="nonzero" rx="5.813" ry="5.959"/>
+                    <ellipse cx="35.687" cy="166.757" fill="#CCC" fill-rule="nonzero" rx="5.813" ry="5.959"/>
+                    <ellipse cx="35.687" cy="202.122" fill="#CCC" fill-rule="nonzero" rx="5.813" ry="5.959"/>
+                    <path fill="#518DE2" fill-rule="nonzero" d="M197.46 237.678l.502-.013 1.04-.026c5.102-.13 8.864-.175 12.69-.112 7.904.128 13.807.725 17.36 1.971 2.59.908 4.485 1.95 8.59 4.512l.028.017c4.154 2.593 6.07 3.636 8.657 4.503 4.027 1.348 6.545 1.465 11.538.995l.478-.044.176-.016c7.752-.711 12.824.674 22.32 7.788l.463.348-.604.798c-9.596-7.266-14.458-8.638-22.087-7.939l-.652.061c-5.12.481-7.763.359-11.95-1.043-2.686-.9-4.649-1.969-8.868-4.602l-.028-.017c-4.044-2.524-5.895-3.541-8.393-4.417-3.418-1.2-9.244-1.789-17.043-1.916-3.81-.062-7.56-.017-12.65.112l-1.039.027-.507.013c-.2 2.257-2.07 4.048-4.386 4.096-2.485.053-4.542-1.919-4.594-4.404-.052-2.484 1.92-4.541 4.404-4.594 2.315-.048 4.258 1.66 4.556 3.902zm-4.534-2.902c-1.932.041-3.466 1.64-3.425 3.573.04 1.933 1.64 3.466 3.573 3.426 1.932-.041 3.466-1.64 3.425-3.573-.04-1.933-1.64-3.467-3.573-3.426z"/>
+                    <path fill="#17BD85" fill-rule="nonzero" d="M511.457 234.723l.5-.016 1.042-.034c5.103-.162 8.866-.218 12.696-.14 7.915.161 13.828.91 17.392 2.471 2.595 1.138 4.49 2.44 8.599 5.645l.027.021c4.151 3.239 6.067 4.543 8.648 5.623 4.011 1.68 6.514 1.824 11.493 1.24l.654-.077c7.792-.893 12.89.854 22.424 9.793l.412.388-.688.726c-9.591-9.077-14.43-10.784-22.034-9.913l-.651.076c-5.135.603-7.794.449-11.996-1.31-2.692-1.127-4.655-2.464-8.877-5.757l-.027-.022c-4.042-3.153-5.893-4.424-8.386-5.517-3.406-1.493-9.222-2.228-17.01-2.387-3.809-.077-7.557-.022-12.645.14l-1.04.033-.507.017c-.186 2.257-2.048 4.059-4.364 4.12-2.485.065-4.552-1.896-4.617-4.38-.066-2.484 1.895-4.552 4.38-4.617 2.314-.061 4.266 1.636 4.575 3.877zm-4.357-2.877h-.192c-1.933.05-3.458 1.658-3.407 3.59.051 1.933 1.659 3.458 3.591 3.407 1.933-.05 3.458-1.659 3.407-3.591-.048-1.804-1.452-3.252-3.21-3.396l-.19-.01z"/>
+                    <path fill="#E64949" fill-rule="nonzero" d="M819.457 234.723l.5-.016 1.042-.034c5.103-.162 8.866-.218 12.696-.14 7.915.161 13.828.91 17.392 2.471 2.595 1.138 4.49 2.44 8.599 5.645l.027.021c4.151 3.239 6.067 4.543 8.648 5.623 4.011 1.68 6.514 1.824 11.493 1.24l.654-.077c7.792-.893 12.89.854 22.424 9.793l.412.388-.688.726c-9.591-9.077-14.43-10.784-22.034-9.913l-.651.076c-5.135.603-7.794.449-11.996-1.31-2.692-1.127-4.655-2.464-8.877-5.757l-.027-.022c-4.042-3.153-5.893-4.424-8.386-5.517-3.406-1.493-9.222-2.228-17.01-2.387-3.809-.077-7.557-.022-12.645.14l-1.04.033-.507.017c-.186 2.257-2.048 4.059-4.364 4.12-2.485.065-4.552-1.896-4.617-4.38-.066-2.484 1.895-4.552 4.38-4.617 2.314-.061 4.266 1.636 4.575 3.877zm-4.357-2.877h-.192c-1.933.05-3.458 1.658-3.407 3.59.051 1.933 1.659 3.458 3.591 3.407 1.933-.05 3.458-1.659 3.407-3.591-.048-1.804-1.452-3.252-3.21-3.396l-.19-.01z"/>
+                    <path stroke="#979797" stroke-linecap="square" d="M96.5 497.5L1006.5 497.5M96.5 465.5L1006.5 465.5M96.5 433.5L1006.5 433.5M96.5 401.5L1006.5 401.5M96.5 369.5L1006.5 369.5M96.5 337.5L1006.5 337.5" opacity=".5"/>
+                    <rect width="116" height="9" x="777" y="481" fill="#EAEAEA" fill-rule="nonzero" rx="4.5"/>
+                    <rect width="66" height="9" x="777" y="449" fill="#EAEAEA" fill-rule="nonzero" rx="4.5"/>
+                    <rect width="116" height="9" x="777" y="417" fill="#EAEAEA" fill-rule="nonzero" rx="4.5"/>
+                    <rect width="126" height="9" x="777" y="385" fill="#EAEAEA" fill-rule="nonzero" rx="4.5"/>
+                    <rect width="86" height="9" x="777" y="353" fill="#EAEAEA" fill-rule="nonzero" rx="4.5"/>
+                    <rect width="96" height="14" x="777" y="317" fill="#083EB1" fill-rule="nonzero" opacity=".5" rx="7"/>
+                    <rect width="116" height="9" x="607" y="481" fill="#EAEAEA" fill-rule="nonzero" rx="4.5"/>
+                    <rect width="66" height="9" x="607" y="449" fill="#EAEAEA" fill-rule="nonzero" rx="4.5"/>
+                    <rect width="116" height="9" x="607" y="417" fill="#EAEAEA" fill-rule="nonzero" rx="4.5"/>
+                    <rect width="126" height="9" x="607" y="385" fill="#EAEAEA" fill-rule="nonzero" rx="4.5"/>
+                    <rect width="86" height="9" x="607" y="353" fill="#EAEAEA" fill-rule="nonzero" rx="4.5"/>
+                    <rect width="96" height="14" x="607" y="317" fill="#083EB1" fill-rule="nonzero" opacity=".5" rx="7"/>
+                    <rect width="116" height="9" x="437" y="481" fill="#EAEAEA" fill-rule="nonzero" rx="4.5"/>
+                    <rect width="66" height="9" x="437" y="449" fill="#EAEAEA" fill-rule="nonzero" rx="4.5"/>
+                    <rect width="116" height="9" x="437" y="417" fill="#EAEAEA" fill-rule="nonzero" rx="4.5"/>
+                    <rect width="126" height="9" x="437" y="385" fill="#EAEAEA" fill-rule="nonzero" rx="4.5"/>
+                    <rect width="86" height="9" x="437" y="353" fill="#EAEAEA" fill-rule="nonzero" rx="4.5"/>
+                    <rect width="96" height="14" x="437" y="317" fill="#083EB1" fill-rule="nonzero" opacity=".5" rx="7"/>
+                    <rect width="116" height="9" x="267" y="481" fill="#EAEAEA" fill-rule="nonzero" rx="4.5"/>
+                    <rect width="66" height="9" x="267" y="449" fill="#EAEAEA" fill-rule="nonzero" rx="4.5"/>
+                    <rect width="116" height="9" x="267" y="417" fill="#EAEAEA" fill-rule="nonzero" rx="4.5"/>
+                    <rect width="126" height="9" x="267" y="385" fill="#EAEAEA" fill-rule="nonzero" rx="4.5"/>
+                    <rect width="86" height="9" x="267" y="353" fill="#EAEAEA" fill-rule="nonzero" rx="4.5"/>
+                    <rect width="96" height="14" x="267" y="317" fill="#083EB1" fill-rule="nonzero" opacity=".5" rx="7"/>
+                    <rect width="116" height="9" x="97" y="481" fill="#EAEAEA" fill-rule="nonzero" rx="4.5"/>
+                    <rect width="66" height="9" x="97" y="449" fill="#EAEAEA" fill-rule="nonzero" rx="4.5"/>
+                    <rect width="116" height="9" x="97" y="417" fill="#EAEAEA" fill-rule="nonzero" rx="4.5"/>
+                    <rect width="126" height="9" x="97" y="385" fill="#EAEAEA" fill-rule="nonzero" rx="4.5"/>
+                    <rect width="86" height="9" x="97" y="353" fill="#EAEAEA" fill-rule="nonzero" rx="4.5"/>
+                    <rect width="96" height="14" x="97" y="317" fill="#083EB1" fill-rule="nonzero" opacity=".5" rx="7"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
